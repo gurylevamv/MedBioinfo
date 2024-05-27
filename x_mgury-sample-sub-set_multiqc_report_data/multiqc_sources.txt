@@ -1,0 +1,24 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	x_mgury_bowtie_merged2PhiX	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/bowtie/x_mgury_bowtie_merged2PhiX.log
+Bowtie 2 / HiSAT2	all_sections	x_mgury_bowtie_merged2SARS	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/bowtie/x_mgury_bowtie_merged2SARS.log
+FastQC	all_sections	ERR6913223_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913223_2_fastqc.zip
+FastQC	all_sections	ERR6913129_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913129_1_fastqc.zip
+FastQC	all_sections	ERR6913225_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913225_1_fastqc.zip
+FastQC	all_sections	ERR6913241_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913241_2_fastqc.zip
+FastQC	all_sections	ERR6913206_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913206_1_fastqc.zip
+FastQC	all_sections	ERR6913229_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913229_1_fastqc.zip
+FastQC	all_sections	ERR6913241_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913241_1_fastqc.zip
+FastQC	all_sections	ERR6913223_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913223_1_fastqc.zip
+FastQC	all_sections	ERR6913133_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913133_2_fastqc.zip
+FastQC	all_sections	ERR6913145_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913145_1_fastqc.zip
+FastQC	all_sections	ERR6913129_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913129_2_fastqc.zip
+FastQC	all_sections	ERR6913110_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913110_1_fastqc.zip
+FastQC	all_sections	ERR6913127_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913127_2_fastqc.zip
+FastQC	all_sections	ERR6913110_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913110_2_fastqc.zip
+FastQC	all_sections	ERR6913127_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913127_1_fastqc.zip
+FastQC	all_sections	ERR6913145_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913145_2_fastqc.zip
+FastQC	all_sections	ERR6913133_1	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913133_1_fastqc.zip
+FastQC	all_sections	ERR6913206_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913206_2_fastqc.zip
+FastQC	all_sections	ERR6913225_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913225_2_fastqc.zip
+FastQC	all_sections	ERR6913229_2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/fastqc/ERR6913229_2_fastqc.zip
+FLASh	all_sections	x_mgury_flash2	/proj/applied_bioinformatics/users/x_mgury/MedBioinfo/analyses/x_mgury_flash2.log
